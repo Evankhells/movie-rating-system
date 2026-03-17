@@ -241,4 +241,6 @@ En el navegador
 
 🚧 En desarrollo 
 
+📊 Diagrama de capas de la estructura del proyecto
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fddb0be3-e9b3-4359-8a92-1ef31071474e" />
 
