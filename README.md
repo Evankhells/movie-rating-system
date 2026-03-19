@@ -243,4 +243,7 @@ En el navegador
 
 📊 Diagrama de capas de la estructura del proyecto
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fddb0be3-e9b3-4359-8a92-1ef31071474e" />
+📊 Diagrama de capas de las herramientas del proyecto
+![9775f069-3ce3-46c6-b214-74a3e4295c60](https://github.com/user-attachments/assets/150719f3-784c-4d93-a373-b337550f7667)
+
 
